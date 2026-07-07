@@ -25,4 +25,4 @@ using Microsoft Excel.
 ## Author
 - Name: Mohammad Saif Saifi
 - Location: Vancouver, BC, Canada
-- LinkedIn: your linkedin profile link
+- LinkedIn: www.linkedin.com/in/mohammad-saif-saifi-6bb12a343
